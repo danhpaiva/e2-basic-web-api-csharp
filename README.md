@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center" id=status> 
-	:beginner: Completed: beginner:
+	:beginner: Completed :beginner:
 </h2>
 
 <h2 id=objetivo>:scroll: Objective</h2>
