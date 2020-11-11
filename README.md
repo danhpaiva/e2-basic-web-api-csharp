@@ -28,7 +28,7 @@ The objective is to be able to work on the concept of Get, Post and Delete throu
 The following tools were used in the construction of the project:
 
 - IDE: <a href="https://visualstudio.microsoft.com/pt-br/">Visual Studio</a>
-- SGBD: <a href="https://www.postman.com/downloads/">Postman</a>
+- The Collaboration Platform for API Development: <a href="https://www.postman.com/downloads/">Postman</a>
 
 <h2 id=autor>:grin: Author</h2>
 
